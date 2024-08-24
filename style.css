@@ -24,3 +24,11 @@
     outline: 0;
     border-radius: 5px;
 }
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #81ecec;
+    margin-top: 0px;
+}
