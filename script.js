@@ -42,11 +42,9 @@ const addNote = (text = "", title = "") => {
     note.classList.add("note");
     note.innerHTML = `
     <div class="icons">
-        <i class="save fas fa-save"
-         style="color:red">
+        <i class="save fas fa-save" style="color:red">
         </i>
-        <i class="trash fas fa-trash"
-        style="color:yellow">
+        <i class="trash fas fa-trash" style="color:yellow">
         </i>
     </div>
     <div class="title-div">
