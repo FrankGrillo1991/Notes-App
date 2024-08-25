@@ -44,7 +44,7 @@ const addNote = (text = "", title = "") => {
     <div class="icons">
         <i class="save fas fa-save" style="color:red">
         </i>
-        <i class="trash fss fa-trash" style="color:yellow">
+        <i class="trash fas fa-trash" style="color:yellow">
         </i>
     </div>
     <div class="title-div">
