@@ -1,0 +1,1 @@
+Notes App developed with HTML, CSS & JavaScript
